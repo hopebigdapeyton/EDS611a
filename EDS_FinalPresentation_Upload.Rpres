@@ -1,6 +1,5 @@
 Environmental Data Science
 
-
 Presentations
 ========================================================
 author: FES 611a
@@ -74,12 +73,28 @@ More formatting information is available [**here**](https://rpubs.com/SameerMath
  - Solution:
 
 
-[title of presentation] - Austin
+Pastoralists in Kenya - Austin
 ========================================================
- - Question:
- - Technical Challenge:
- - Solution:
+## Question: 
+ 1. How do Kenyan pastoralists value their currently-owned cattle?
+ 2. Where are they grazing their cattle throughout the year?
+ 
+## Technical Challenge: 
+ 1. A randomization algorithm went wrong and I need to clean up the mess.
+ 2. I need to turn a qualitative question about geographic locations into usable data for a map.
+ 
+## Solution:
+ 1. I use the selenium package in Python to web scrape my survey's server and store the data in a dataframe that I merge with my master data.
+ 2. I use the pandas package in Python to read these questions and store the information in a dataframe to merge with a shapefile in ArcGIS.
+ 
+ 
+Pastoralists in Kenya - Austin
+======================================================== 
+## Figures:
 
+![Village heatmap](Village_heatmap.png)
+***
+![Dry year land use](Dry_year_land_use.png)
 
 [title of presentation] - Akshay
 ========================================================
