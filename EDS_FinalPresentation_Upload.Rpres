@@ -67,7 +67,7 @@ More formatting information is available [**here**](https://rpubs.com/SameerMath
 
 
 Global Satisfaction with Environmental Preservtion Efforts - Khin
-========================================================
+===================================================================
 ## Question:
  - How public satisfaction with governments' efforts to preserve the environment differ by 1) country 2) global regions and 3) categories of urbancity?
 
@@ -81,9 +81,15 @@ Global Satisfaction with Environmental Preservtion Efforts - Khin
   - google search, read textbook and references, practice
   - used **choroplethr** and **choroplethrMaps* package
   
-  ## Figures:
+  
+Global Satisfaction with Environmental Preservtion Efforts - Khin
+===================================================================
+ ## Figures:
+ 
   ![satisfaction map](satisfactionmap.png)
+  
   ![Global Regions](byglobalregions.png)
+  
   ![Categories by Urbancity](urbancity.png)
   
 
