@@ -78,21 +78,21 @@ Global Satisfaction with Environmental Preservtion Efforts - Khin
  - Choropleth map: different packages to get world map dataframe, recoding the names in data set to match in map data frame (space and spelling) 
  
 ## Solution:
-  - google search, read textbook and references, **choroplethr** and **choroplethrMaps** packages
+  - google search, read textbook and references, **choroplethr**, **choroplethrMaps**, **gsub()**
   
 Global Satisfaction with Environmental Preservtion Efforts - Khin
 ==================================================================
-## Figure 1:
+## Figure 1: By Country
   ![satisfaction map](satisfactionmap.png)
   
 Global Satisfaction with Environmental Preservtion Efforts - Khin
 ===================================================================
-## Figure 2: 
+## Figure 2: By Regions
   ![Global Regions](byglobalregions.png)
   
 Global Satisfaction with Environmental Preservtion Efforts - Khin
 ===================================================================
-## Figure 3: 
+## Figure 3: By Urbancity
  ![Categories by Urbancity](urbancity.png)
   
 
