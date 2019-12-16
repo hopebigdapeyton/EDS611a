@@ -59,6 +59,8 @@ Trends in Global Trade of Endangered Species - Angus
  - Solution: Create function to convert to "Whole Organism Equivalents" (WOE) through conditional multiplication
              and remove rows that could not be standardized (e.g. remove rows with kg of meat, convert 2 amphibian 
              legs to 1 WOE, 4 mammalian legs -> 1 WOE)
+             
+ ![Selected figures](Presentation Image Slide.png)
 
 
 [title of presentation] - Katie
