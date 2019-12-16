@@ -74,28 +74,25 @@ Global Satisfaction with Environmental Preservtion Efforts - Khin
  - How public satisfaction with governments' efforts to preserve the environment differ by 1) country 2) global regions and 3) categories of urbancity?
 
 ## Technical Challenge:
- - Data analysis and coding : coding and package error
- - Choropleth map: 
- 1. different packages to get world map dataframe 
- 2. recoding the names in data set to match in map data frame (space and spelling) 
+ - coding and package error
+ - Choropleth map: different packages to get world map dataframe, recoding the names in data set to match in map data frame (space and spelling) 
  
- ## Solution:
-  - google search, read textbook and references, practice
-  - used **choroplethr** and **choroplethrMaps* package
+## Solution:
+  - google search, read textbook and references, **choroplethr** and **choroplethrMaps** packages
+  
+Global Satisfaction with Environmental Preservtion Efforts - Khin
+==================================================================
+## Figure 1:
+  ![satisfaction map](satisfactionmap.png)
   
 Global Satisfaction with Environmental Preservtion Efforts - Khin
 ===================================================================
- ## Figure 1:
-  ![satisfaction map](satisfactionmap.png)
-  
-  Global Satisfaction with Environmental Preservtion Efforts - Khin
-===================================================================
-  ## Figure 2: 
+## Figure 2: 
   ![Global Regions](byglobalregions.png)
   
 Global Satisfaction with Environmental Preservtion Efforts - Khin
 ===================================================================
- ## Figure 3: 
+## Figure 3: 
  ![Categories by Urbancity](urbancity.png)
   
 
