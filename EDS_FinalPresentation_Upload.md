@@ -1,5 +1,6 @@
 Environmental Data Science
 
+
 Presentations
 ========================================================
 author: FES 611a
@@ -50,13 +51,11 @@ More formatting information is available [**here**](https://rpubs.com/SameerMath
  - Solution:
 
 
-Trends in Global Trade of Endangered Species - Angus
+[title of presentation] - Angus
 ========================================================
- - Question: What are the major trends in how endagered species are traded between countries across the globe? 
- - Technical Challenge: Data for each trade is in different units (e.g. kg of meat, live organisms, m^3 of timber)
- - Solution: Create function to convert to "Whole Organism Equivalents" (WOE) through conditional multiplication
-             and remove rows that could not be standardized (e.g. remove rows with kg of meat, convert 2 amphibian 
-             legs to 1 WOE, 4 mammalian legs -> 1 WOE)
+ - Question:
+ - Technical Challenge:
+ - Solution:
 
 
 [title of presentation] - Katie
@@ -66,59 +65,19 @@ Trends in Global Trade of Endangered Species - Angus
  - Solution:
 
 
-Global Satisfaction with Environmental Preservtion Efforts - Khin
-===================================================================
-## Question:
- - How public satisfaction with governments' efforts to preserve the environment differ by 1) country 2) global regions and 3) categories of urbancity?
-
-## Technical Challenge:
- - Data analysis and coding : coding and package error
- - Choropleth map: 
- 1. different packages to get world map dataframe 
- 2. recoding the names in data set to match in map data frame (space and spelling) 
- 
- ## Solution:
-  - google search, read textbook and references, practice
-  - used **choroplethr** and **choroplethrMaps* package
-  
-Global Satisfaction with Environmental Preservtion Efforts - Khin
-===================================================================
- ## Figure 1:
-  ![satisfaction map](satisfactionmap.png)
-  
-  Global Satisfaction with Environmental Preservtion Efforts - Khin
-===================================================================
-  ## Figure 2: 
-  ![Global Regions](byglobalregions.png)
-  
-Global Satisfaction with Environmental Preservtion Efforts - Khin
-===================================================================
- ## Figure 3: 
- ![Categories by Urbancity](urbancity.png)
-  
-
-Pastoralists in Kenya - Austin
+[title of presentation] - Khin
 ========================================================
-## Question: 
- 1. How do Kenyan pastoralists value their currently-owned cattle?
- 2. Where are they grazing their cattle throughout the year?
- 
-## Technical Challenge: 
- 1. A randomization algorithm went wrong and I need to clean up the mess.
- 2. I need to turn a qualitative question about geographic locations into usable data for a map.
- 
-## Solution:
- 1. I use the selenium package in Python to web scrape my survey's server and store the data in a dataframe that I merge with my master data.
- 2. I use the pandas package in Python to read these questions and store the information in a dataframe to merge with a shapefile in ArcGIS.
- 
- 
-Pastoralists in Kenya - Austin
-======================================================== 
-## Figures:
+ - Question:
+ - Technical Challenge:
+ - Solution:
 
-![Village heatmap](Village_heatmap.png)
-***
-![Dry year land use](Dry_year_land_use.png)
+
+[title of presentation] - Austin
+========================================================
+ - Question:
+ - Technical Challenge:
+ - Solution:
+
 
 [title of presentation] - Akshay
 ========================================================
