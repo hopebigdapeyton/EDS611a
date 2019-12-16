@@ -24,12 +24,20 @@ More options to define image size [here](https://sebastiansauer.github.io/figure
 
 More formatting information is available [**here**](https://rpubs.com/SameerMathur/RPres-Tutorial); Github upload link: [**here**](https://github.com/akshaysurendra/EDS611a)
 
-[title of presentation] - Hope
+Michigan PFAS Response: Which Counties to Prioritize? - Hope
 ========================================================
- - Question:
- - Technical Challenge:
- - Solution:
-
+## Question: 
+  - What are the counties in Michigan that have high levels of other PFAS compounds (e.g. PFHxS) where counties should focus their response?
+  
+## Technical Challenge: 
+  - Data has general addresses but no coordinates (likely for liability reasons).
+ 
+## Solution: 
+  - Run script in python to Geocode data.
+             
+Trends in additional PFAS Compounds - Hope
+========================================================
+![Selected figures](PFAS Map)
 
 [title of presentation] - Zhinan
 ========================================================
