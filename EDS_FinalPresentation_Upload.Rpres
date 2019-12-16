@@ -54,11 +54,18 @@ More formatting information is available [**here**](https://rpubs.com/SameerMath
 
 Trends in Global Trade of Endangered Species - Angus
 ========================================================
- - Question: What are the major trends in how endagered species are traded between countries across the globe? 
- - Technical Challenge: Data for each trade is in different units (e.g. kg of meat, live organisms, m^3 of timber)
- - Solution: Create function to convert to "Whole Organism Equivalents" (WOE) through conditional multiplication
-             and remove rows that could not be standardized (e.g. remove rows with kg of meat, convert 2 amphibian 
-             legs to 1 WOE, 4 mammalian legs -> 1 WOE)
+## Question: 
+  - What are the major trends in how endagered species are traded between countries across the globe? 
+  
+## Technical Challenge: 
+  - Data for each trade is in different units (e.g. kg of meat, live organisms, m^3 of timber)
+ 
+## Solution: 
+  - Create function to convert to "Whole Organism Equivalents" (WOE) through conditional multiplication and remove rows that could not be standardized (e.g. remove rows with kg of meat, convert 2 amphibian legs to 1 WOE, 4 mammalian legs -> 1 WOE)
+             
+Trends in Global Trade of Endangered Species - Angus
+========================================================
+![Selected figures](presentation_figures.png)
 
 
 [title of presentation] - Katie
